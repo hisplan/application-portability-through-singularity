@@ -1,6 +1,6 @@
 # Application Protability through Singularity
 
-This was presented by Jaeyoung Chun on Feb 3, 2017. The presentation covers the following topics and the PPT file can be found [here](./presentation.pdf).
+This was presented by Jaeyoung Chun on Feb 3, 2017. The presentation covers the following topics, and the presentation file can be found [here](./presentation.pdf).
 
 - Goals
 - Virtualization
