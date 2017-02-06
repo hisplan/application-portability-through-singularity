@@ -51,5 +51,5 @@ This only works when the following two conditions are met:
     
     or
 
-    - the bind point (`/ifs/data` in this case) already exist within the container.
+    - the bind point (`/ifs/data` in this case) already exists within the container.
 
