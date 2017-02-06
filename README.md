@@ -25,7 +25,6 @@ Most of the examples here requires Singularity to be installed on your machine. 
 ### Running Containers
 
 - [Running samtools by creating a container image from a Singularity image definition file](https://github.com/hisplan/singularity-samtools)
-
 - [Running samtools by creating a container image from a Docker image definition file](https://github.com/hisplan/docker-samtools)
 
 ### File Sharing
